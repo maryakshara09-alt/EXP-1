@@ -75,9 +75,9 @@ a.   KVL:
 ![kvl tab](https://github.com/user-attachments/assets/6f8dc007-9265-4e9d-a14a-882b2af9f5e6)
 
 
-b.  KCL:
+b.  kcl:
+![kcl tab](https://github.com/user-attachments/assets/f8e5a632-fddc-4620-8fb7-15654121d30e)
 
-    ![IMG-20251118-WA0005 1 (1)](https://github.com/user-attachments/assets/afc14f56-da43-466b-81a0-f6c888487d27)
 
 
 
